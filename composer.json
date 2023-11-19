@@ -1,0 +1,9 @@
+{
+    "require": {
+        "dompdf/dompdf": "^2.0",
+        "ext-mbstring": "*"
+    },
+    "require-dev": {
+        "mpdf/mpdf": "^6.1"
+    }
+}
